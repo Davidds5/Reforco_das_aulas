@@ -1,0 +1,7 @@
+atividade 1 – Controle de Assinaturas Mensais
+Contexto: Você vai criar um sistema que calcula quanto um cliente pagou em determinado mês, com base nos planos de assinatura contratados.
+
+🔧 Classes:
+Cliente: nome, email, lista de Assinatura
+
+Assinatura: data, nome do plano, valor
